@@ -1,0 +1,17 @@
+{
+  "samples": 10500,
+  "subjects": 3500,
+  "projects": 3,
+  "measurements": 52500,
+  "summary_rows": 52500,
+  "source_sha256": "011373475d37417d4131d4a06efeb58df89c4adc76451a5efa48a535ed293c82",
+  "missing_response_samples": 1422,
+  "zero_total_samples": 0,
+  "cohort_samples": 1968,
+  "cohort_subjects": 656,
+  "responder_samples": 993,
+  "nonresponder_samples": 975,
+  "responder_subjects": 331,
+  "nonresponder_subjects": 325,
+  "cohort_unknown_response_samples": 0
+}
